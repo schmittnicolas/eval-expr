@@ -1,5 +1,3 @@
-# eval-expr
-School project at EPITA
 
 # EvalExp
 Goal:
